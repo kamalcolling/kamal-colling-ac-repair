@@ -1,2 +1,3 @@
-# kamal-colling-ac-repair
-AC Repair &amp; Service Website – Kamal Cooling
+# Kamal Colling & AC Repair
+
+GitHub Pages-ready local service website.
